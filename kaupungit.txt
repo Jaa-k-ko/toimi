@@ -1,1 +1,3 @@
 Helsinki, Vantaa, Kerava
+(tämä on lisätty git bashin kautta)
+
